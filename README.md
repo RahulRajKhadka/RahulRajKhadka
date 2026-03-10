@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rahul Raj Khadka</h1>
-<h3 align="center">Frontend-first developer | Backend-enthusiastic | Always learning</h3>
+<h3 align="center"> Always learning</h3>
 
 ## 📖 About Me
 - 🎯 Focused on building clean, scalable, and performant web applications
