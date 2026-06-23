@@ -17,7 +17,7 @@
 ---
 
 ## 💼 Skills
-<div align="center" style="display:flex; justify-content:center; flex-wrap:wrap; gap:400px; padding:25px; border:2px solid #1f6feb; border-radius:12px; margin:20px 0;">
+<div align="center" style="display:flex; justify-content:center; flex-wrap:wrap; gap:900px; padding:25px; border:2px solid #1f6feb; border-radius:12px; margin:20px 0;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="55"/>
   <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="30"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="30"/>
